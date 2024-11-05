@@ -7,6 +7,8 @@ This project is an Arts Gallery website that displays a curated collection of fa
 ## Project Framework
 
 Artistry-Hub/
+
+```bash
 │
 ├── index.html          # Main HTML file for the gallery
 ├── styles.css          # CSS file for styling the web app
@@ -18,6 +20,7 @@ Artistry-Hub/
 └── .github/
     └── workflows/
         └── azure-static-web-app.yml  # GitHub Actions workflow file for Azure deployment
+```
 
 
 ## Prerequisites
